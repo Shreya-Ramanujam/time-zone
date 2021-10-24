@@ -1,0 +1,36 @@
+html,body{
+    text-align: center;
+    width: 350px;
+}
+
+img{
+    width: 54px;
+    padding: 5px;
+}
+
+h4{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bi{
+    padding: 15px;
+    font-size: 35px;
+    color: #000;
+}
+
+.bi-youtube:hover{
+    color: red;
+}
+.bi-facebook:hover{
+    color: darkblue;
+}
+.bi-twitter:hover{
+    color: rgb(53, 197, 241);
+}
+.bi-github:hover{
+    color: grey;
+}
